@@ -75,19 +75,19 @@ body {
   position: absolute;
   border-bottom: 1px solid #e9ecef;
   background-color: white;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+  font-family: 'Muli', Helvetica, Arial, sans-serif; }
   #mainNav .navbar-brand {
-    font-weight: 800;
+    font-weight: 400;
     color: #343a40; }
   #mainNav .navbar-toggler {
     font-size: 12px;
-    font-weight: 800;
+    font-weight: 400;
     padding: 13px;
     text-transform: uppercase;
     color: #343a40; }
   #mainNav .navbar-nav > li.nav-item > a {
     font-size: 12px;
-    font-weight: 800;
+    font-weight: 400;
     letter-spacing: 1px;
     text-transform: uppercase; }
   @media only screen and (min-width: 992px) {
@@ -179,11 +179,11 @@ header.masthead {
     header.masthead .page-heading .subheading,
     header.masthead .site-heading .subheading {
       font-size: 24px;
-      font-weight: 300;
+      font-weight: 400;
       line-height: 1.1;
       display: block;
       margin: 10px 0 0;
-      font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      font-family: 'Muli', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
     @media only screen and (min-width: 768px) {
       header.masthead .page-heading h1,
       header.masthead .site-heading h1 {
